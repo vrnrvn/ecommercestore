@@ -1,4 +1,4 @@
-[*THE LIVE WEBSITE*](https://commercejsfullstore.netlify.app)
+-[*THE LIVE WEBSITE*](https://commercejsfullstore.netlify.app)-
 
 A sample E-commerce Web App using the stripe credit card API, material UI, and chec API
 
