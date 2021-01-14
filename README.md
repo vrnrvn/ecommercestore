@@ -3,4 +3,4 @@ A sample E-commerce Web App using the stripe credit card API, material UI, and c
 Contains products, a fully functional shopping cart, fully funcitonal checkout process with full shipping options 
 
 
-[The live website](https://commercejsfullstore.netlify.app)
+[*THE LIVE WEBSITE*](https://commercejsfullstore.netlify.app)
